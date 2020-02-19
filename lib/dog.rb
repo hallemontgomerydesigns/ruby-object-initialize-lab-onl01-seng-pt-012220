@@ -5,13 +5,4 @@ class Dog
   
 end 
 
-def 
-  initialize(breed)
-   @breed = breed
- end 
- 
- puts "Mutt"
- 
- end
-  
-  
+end
